@@ -1,16 +1,82 @@
-## Hi there 👋
+# 伊藤 開司 - フリーランスを目指す男
 
-<!--
-**santosusi/santosusi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+「金もねぇ、時間もねぇ……でもコードは書ける。  
+　ならやるしかねぇだろ……！」
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 About Me
+
+> 元地下労働者（※比喩）。ReactとHTMLで人生を這い上がろうとしている高専生。
+
+- 🧑‍🎓 情報システム工学コース所属
+- 💻 専門は Webフロントエンド（HTML / CSS / JavaScript / React）
+- 🐧 Linux, Git, GitHub 活用中（帝愛サーバーにも潜れるはず……！）
+- 🎯 将来はフリーランスとして案件を受けまくる人生に賭けてる....
+
+---
+
+## 🚀 Skills
+
+| カテゴリ       | 技術・ツール                         |
+|----------------|--------------------------------------|
+| Web            | HTML / CSS / JavaScript / React      |
+| UI/UX          | Figma /        
+| バージョン管理 | Git / GitHub                         |
+| 開発環境       | VS Code / macOS / ターミナル          |
+| その他         | CLI操作 / VSCode設定マニア            |
+
+---
+
+## 📦 Main Project
+
+### 🃏 帝愛グループ公式サイト（非公式）
+
+> 架空企業「帝愛グループ」のダークでスタイリッシュな企業サイトを完全再現。
+
+🔗 [公開URL](https://santosusi.github.io/satoshi-first-portfolio/)  
+🧾 [ソースコード](https://github.com/santosusi/satoshi-first-portfolio)
+
+- ダークUI × 金色アクセントで"帝愛らしさ"を追求
+- サービス・会社概要・問い合わせフォーム完備
+- GitHub Pagesを使った全世界への公開も実現
+
+---
+
+## 💡 Currently Working On
+
+- React × Tailwindでの社員カードコンポーネント（もちろん俺を苦しめやがった一条もいるぜ……）
+- 「ざわ…」のCSSアニメーション導入検討中
+- お問い合わせフォームの送信機能（FormSubmit or PHP）
+
+---
+
+## 📫 Contact
+
+- 📧 hanzaiteki.beer@gmail.com（嘘じゃねぇ、これで連絡取れる）
+
+---
+
+## 🗣️ 名言（＝自己紹介）
+
+> _「やられたらやり返すんじゃない…  
+> 　やられる前に、コードを書いて逃げ切るんだよッ！！」_
+
+---
+
+## 📜 License
+
+MIT License.  
+帝愛に怒られない限り、自由に使っていいぜ……！
+
+## 🛡️ (ちょっと真面目に)著作権・免責事項
+
+このプロジェクトは福本伸行先生による漫画『賭博黙示録カイジ』の世界観をリスペクトして制作された二次創作サイトです。  
+原作に登場するキャラクター・団体・用語などの著作権はすべて原作者および出版社に帰属します。  
+当サイトおよびコードは**非公式であり、商用利用・営利目的の使用は一切行っておりません。**
+
+本リポジトリの内容は学習・創作活動・技術向上を目的としたものであり、  
+著作権者様からのご連絡があった場合には速やかに削除・修正対応を行います。
+
+
+
