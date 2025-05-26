@@ -21,8 +21,9 @@
 
 | カテゴリ       | 技術・ツール                         |
 |----------------|--------------------------------------|
-| Web            | HTML / CSS / JavaScript / React      |
-| UI/UX          | Figma /        
+| Web            | HTML / CSS / JavaScript / React 
+|システムプログラム | Rust                             |
+| UI/UX          | Figma /                           |
 | バージョン管理 | Git / GitHub                         |
 | 開発環境       | VS Code / macOS / ターミナル          |
 | その他         | CLI操作 / VSCode設定マニア            |
