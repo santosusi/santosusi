@@ -14,18 +14,6 @@
 - 賭博黙示録カイジが大好き
 - このGitでは基本的にカイジについてのコードを書きたいと思います
 
----
-
-## 🚀 Skills
-
-| カテゴリ       | 技術・ツール                         |
-|----------------|--------------------------------------|
-| Web            | HTML / CSS / JavaScript / React 
-|システムプログラム | Rust                             |
-| UI/UX          | Figma /                           |
-| バージョン管理 | Git / GitHub                         |
-| 開発環境       | VS Code / macOS / ターミナル          |
-| その他         | CLI操作 / VSCode設定マニア            |
 
 ---
 
@@ -35,26 +23,15 @@
 
 > 架空企業「帝愛グループ」のダークでスタイリッシュな企業サイトを完全再現。
 
-🔗 [公開URL](https://santosusi.github.io/satoshi-first-portfolio/)  
+🔗 [公開URL](https://santosusi.github.io/teiai-official/)  
 🧾 [ソースコード](https://github.com/santosusi/satoshi-first-portfolio)
 
-- ダークUI × 金色アクセントで"帝愛らしさ"を追求
-- サービス・会社概要・問い合わせフォーム完備
-- GitHub Pagesを使った全世界への公開も実現
 
 ###チンチロリン完全再現
 🧾 [ソースコード](https://github.com/santosusi/chinchirorin)
 
--賭博破戒録カイジにてカイジと大槻との対決をpythonで完全再現.....
-
 
 ---
-
-## 💡 Currently Working On
-
-- React × Tailwindでの社員カードコンポーネント
-- 「ざわ…」のCSSアニメーション導入検討中
-- お問い合わせフォームの送信機能（FormSubmit or PHP）
 
 ---
 
@@ -64,18 +41,13 @@
 
 ---
 
-## 🗣️ 名言（＝自己紹介）
-
-> _「やられたらやり返すんじゃない…  
-> 　やられる前に、コードを書いて逃げ切るんだよッ！！」_
 
 ---
 
 ## 📜 License
 
 MIT License.  
-帝愛に怒られない限り、自由に使っていいぜ……！
-
+自由にどうぞ。(黒崎さんに怒られたら終わりだけど)
 ## 🛡️ (ちょっと真面目に)著作権・免責事項
 
 カイジのホームページなどは福本伸行先生による漫画『賭博黙示録カイジ』の世界観をリスペクトして制作された二次創作サイトです。  
